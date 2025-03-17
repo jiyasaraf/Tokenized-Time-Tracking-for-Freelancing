@@ -87,7 +87,7 @@ Our vision is to create a decentralized freelancing ecosystem where time trackin
    - Expansion into a full-fledged decentralized freelance platform
    - Job posting and bidding system
    - Skills matching algorithm
+![image](https://github.com/user-attachments/assets/c499019e-2147-4f11-bd72-7aaadbf7f1ea)
 
 ---
 
-**Note**: This project is currently in development stage. Please check the GitHub repository for updates and contribution guidelines.
